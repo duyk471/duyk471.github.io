@@ -1,3 +1,0 @@
-# Anime
-
-Hmm đang nghĩ
