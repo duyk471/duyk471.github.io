@@ -1,0 +1,9 @@
+title: duykhanh471
+remote_theme: "jekyll/minima@7d91bb5"
+minima:
+  skin: auto
+  nav_pages:
+    - SYSTEM.md
+    - POSTS.md
+    - PROJECTS.md
+include: ['CONTRIBUTING.md']

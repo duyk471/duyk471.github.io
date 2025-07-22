@@ -1,11 +1,14 @@
-# Hệ thống cuộc sống của duykhanh471
+# Hệ thống
+
+Quản lý cuộc sống của duykhanh471
+
 ## Giới thiệu
 
 ### Điểm bắt đầu
 
 Đây là một Snapshot thể hiện cách mình vận hành cuộc đời của mình. 
 
-- [Các dự án lớn](big-projects.md)
+- [Các dự án lớn](posts/big-projects.md)
 - Không biết viết thêm gì
 
 ### Những heuristics quan trọng
@@ -18,12 +21,12 @@ Mình có những quy tắc để vận hành cuộc sống của mình. Mình n
 
 Nhưng rộng hơn, sống đối với mình là *giải quyết vấn đề*, chúng ta dành phần lớn thời gian để tự động hóa cuộc đời của mình, cùng lúc đó cải thiện và nâng cao khả năng giải quyết vấn đề.
 
-- **[Thói quen](thoi-quen.md)**: Nền tảng của hệ thống là thói quen, các hành động được thực hiện một cách tự động. [WHY Habits form & HOW to build them](https://www.youtube.com/watch?v=ls_VFIU1Dv4)
-- **[Bản đồ](ban-do.md)** hay *memorized solutions*: Khi cần làm một việc gì đó đã được hoàn thiện từ trước, hãy xây dựng trong mình một "bản đồ", các thao tác và các bước để thực hiện một công việc có tuần tự để tránh lầm lạc.
-- **[Quá trình > Kết quả](qua-trinh.md)**: Thay vì so sánh với *lý tưởng* của bản thân, ta tập trung vào việc mình cải thiện mỗi ngày, từ thói quen, từ "bản đồ". 
+- **[Thói quen](posts/thoi-quen.md)**: Nền tảng của hệ thống là thói quen, các hành động được thực hiện một cách tự động. [WHY Habits form & HOW to build them](https://www.youtube.com/watch?v=ls_VFIU1Dv4)
+- **[Bản đồ](posts/ban-do.md)** hay *memorized solutions*: Khi cần làm một việc gì đó đã được hoàn thiện từ trước, hãy xây dựng trong mình một "bản đồ", các thao tác và các bước để thực hiện một công việc có tuần tự để tránh lầm lạc.
+- **[Quá trình > Kết quả](posts/qua-trinh.md)**: Thay vì so sánh với *lý tưởng* của bản thân, ta tập trung vào việc mình cải thiện mỗi ngày, từ thói quen, từ "bản đồ". 
 - Thực hiện những thứ mang lại cho mình **cảm giác hoàn thành và sự tiến bộ** (Fulfillment & Progress).
-- **[Ưu tiên](uu-tien.md)** - Busyness is a choice. Usually, busyness is completely unnecessary and is simply a failure to prioritize.
-- Nội quy: Khác với [Bản đồ](ban-do.md), đây là những quy định riêng dành cho mình, mình phải tuân theo (Những quy định cho phần người)
+- **[Ưu tiên](posts/uu-tien.md)** - Busyness is a choice. Usually, busyness is completely unnecessary and is simply a failure to prioritize.
+- Nội quy: Khác với [Bản đồ](posts/ban-do.md), đây là những quy định riêng dành cho mình, mình phải tuân theo (Những quy định cho phần người)
 
 ### Khi đối mặt với các vấn đề mới/khó giải quyết
 
@@ -120,7 +123,7 @@ Mình KHÔNG ĂN BẤT KÌ CÁC LOẠI ĐỒ ĂN NÀO CHỨA SUGAR, SALT và FAT
 
 **Dọn dẹp thông tin trong đầu** -- Mình thường ném đống rác đó vào sổ tay hoặc Pocketnote của mình, những gì mình muốn ghi ra, dù vô nghĩa thì cứ ghi thôi. Mình thực hiện điều này hàng ngày
 
-**Thiền** - Mình hay chỉ tập theo kiểu ngồi im đơn giản thôi với sử dụng [ABCD Journal](abcd-journal.md)
+**Thiền** - Mình hay chỉ tập theo kiểu ngồi im đơn giản thôi với sử dụng [ABCD Journal](posts/abcd-journal.md)
 
 ## Trí dục
 
