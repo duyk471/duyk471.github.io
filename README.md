@@ -1,3 +1,1 @@
-# duykhanh471
-
-Một trang về cá nhân mình
+Một trang về sự học của mình. Mình khá thích viết, và một số thứ khác nữa.
