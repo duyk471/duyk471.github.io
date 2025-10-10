@@ -25,7 +25,21 @@ Còn rất nhiều các dự án nhỏ nữa nhưng mình chỉ đặt các tran
 
 ## Blog
 
-Mình thi thoảng cũng viết Blog nữa... nhưng mà đang bận học nên sẽ sắp xếp sau.
+Mình thi thoảng cũng viết Blog nữa... nhưng mà đang bận học nên sẽ sắp xếp sau (Chưa viết xong đâu nhé....)
+
+- [Lãng mạn hóa cái quá trình của bản thân](blog/lang-man-hoa-qua-trinh.md)
+- [Tôi yêu nghệ thuật của nhân loại](blog/yeu-nghe-thuat.md)
+- [Một xã hội nơi đàn ông đang dần bị tụt lại phía sau](blog/dan-ong-tut-lai-phia-sau.md)
+- [Tác phẩm nghệ thuật được sinh ra là để "phê phán xã hội"?](blog/tac-pham-nghe-thuat-de-phe-phan-xa-hoi.md)
+- [Cách để ở một mình - How to be alone](blog/be-alone.md)
+
+## Hướng dẫn linh tinh
+
+- [Khi học về Backend thì bạn cần học về những nội dung gì?](huong-dan-ca-nhan/backend-guide.md)
+- [Hướng dẫn chuyển đổi định dạng sách từ Aozora Bunko về Kindle](huong-dan-ca-nhan/aozora-bunko.md)
+- [Cách hiểu một câu mà không phụ thuộc vào dịch](huong-dan-ca-nhan/hieu-ma-khong-dich.md)
+- [Java Backend & React](huong-dan-ca-nhan/java-backend.md) - ChatGPT viết, mình sẽ cải thiện trong quá trình học.
+- [Xàm lờ về việc ngủ](huong-dan-ca-nhan/xam-lo-ve-viec-ngu.md)
 
 ## Kết
 
