@@ -20,7 +20,6 @@ Một trang về sự học của cá nhân mình. Một người viết, một 
 
 [Khu sống lành]() - Một cộng đồng về lối sống tối giản, không lãng phí (zero waste), [frugal](https://old.reddit.com/r/Frugal/wiki/index) - Đang làm nên chưa truy cập được.
 
-
 Còn rất nhiều các dự án nhỏ nữa nhưng mình chỉ đặt các trang mà chính cá nhân mình đang sử dụng thường xuyên thôi.
 
 ## Blog
@@ -40,6 +39,18 @@ Mình thi thoảng cũng viết Blog nữa... nhưng mà đang bận học nên 
 - [Cách hiểu một câu mà không phụ thuộc vào dịch](huong-dan-ca-nhan/hieu-ma-khong-dich.md)
 - [Java Backend & React](huong-dan-ca-nhan/java-backend.md) - ChatGPT viết, mình sẽ cải thiện trong quá trình học.
 - [Xàm lờ về việc ngủ](huong-dan-ca-nhan/xam-lo-ve-viec-ngu.md)
+
+## Học để thi
+
+- [IELTS](guide/ielts.md)
+- [JLPT](guide/jlpt.md)
+
+## Đọc sách của các tác giả nào?
+Mình thích đọc kha khá nhiều sách của một số tác giả nhất định
+
+- [Nguyễn Duy Cần](tac-gia/nguyen-duy-can.md)
+- [Nguyễn Hiến Lê](tac-gia/nguyen-hien-le.md)
+- [Nguyễn Phương Mai](tac-gia/nguyen-phuong-mai.md)
 
 ## Kết
 
