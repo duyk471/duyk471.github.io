@@ -10,7 +10,7 @@ Study all nine subjects below, in roughly the presented order, using either the 
 
 | Môn học | Why study? | Book | Videos |
 | --- | --- | --- | --- |
-| **Programming** | Don't be the person who "never quite understood" something like recursion. | *[Structure and Interpretation of Computer Programs](https://github.com/sarabander)* | Không có vì không thích xem video |
+| **Programming** | Don't be the person who "never quite understood" something like recursion. | *[Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtmlr)* | Không có vì không thích xem video |
 | **Computer Architecture** | If you don't have a solid mental model of how a computer actually works, all of your higher-level abstractions will be brittle. | [Dive Into Systems](https://diveintosystems.org/book/), có thể đọc thêm [Các chuyên mục trong môn Kiến trúc máy tính](ktmt.md) | Xem: [Computer Science của CrashCourse (Từ video 2 đến 11)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) |
 | **Algorithms and Data Structures** | If you don't know how to use ubiquitous data structures like stacks, queues, trees, and graphs, you won't be able to solve challenging problems. | Hướng dẫn nhanh mà mình tự viết ra | Không có |
 | **Toán cho KHMT** | CS is basically a runaway branch of applied math, so learning math will give you a competitive advantage. | *[Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)*. Nhưng đây chỉ là Toán rời rạc thôi, còn muốn đi sâu hơn nữa về Linear Algebra ([Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)) | MIT 6.042J (Đi cùng với quyển sách đầu tiên luôn). |
