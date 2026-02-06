@@ -1,55 +1,27 @@
-Một trang về sự học của cá nhân mình. Một người viết, một người học, cũng là một người đang vật lộn trong cuộc sống ở tuổi đôi mươi.
+Một bãi đất trống.
 
-## Dự án
+## Thư mục
 
-### Tự học
+[`blog/`](blog/index.md) - Một người ham trải nghiệm.
 
-- [Tiếng Anh](guide/english.md)
-- [Tiếng Nhật](guide/nihongo.md)
-- [Khoa học máy tính](guide/khmt.md) - Một hướng dẫn tự học Khoa học máy tính được mình viết lại cho cá nhân mình học.
+[`huong-dan/`](/huong-dan/) - Các hướng dẫn (guides) *opinionated* mà mình đã viết, đừng đọc :>
 
-### Phát triển bản thân & Lối sống
+[`tieu-luan/`](/tieu-luan/) - Các bài tiểu luận (essays) mà mình đã viết. Cũng rất chi là *opinionated*.
 
-[Khu học mở - Trang chủ](https://daihocmo.github.io/) - một trang hướng dẫn, lộ trình và tổng hợp cách học lẫn tài nguyên cho rất nhiều môn học lẫn lĩnh vực khác nhau.
+*Muốn đọc một hướng dẫn nào đó phù hợp hơn?* Hãy thử đọc trên các dự án khác của mình:
 
-[Cẩm nang bản thân](https://daihocmo.github.io/ki-nang-song/) - Một "cuốn sách" về chăm sóc, rèn luyện bản thân & kĩ năng mềm.
+## Các trang hướng dẫn khác
 
-[Khu sống lành]() - Một cộng đồng về lối sống tối giản, không lãng phí (zero waste), [frugal](https://old.reddit.com/r/Frugal/wiki/index) - Đang làm nên chưa truy cập được.
+[Khu học mở](https://daihocmo.github.io/) - Mình sử dụng Khu học mở để học [Tiếng Anh](https://daihocmo.github.io/tieng-anh/), [Tiếng Nhật](https://daihocmo.github.io/tieng-nhat/) và [Tiếng Trung](https://daihocmo.github.io/tieng-trung/). Đồng thời, mình cũng có thể truy cập [Kho media](https://daihocmo.github.io/kho-media/) để tìm nội dung immerse.
 
-Còn rất nhiều các dự án nhỏ nữa nhưng mình chỉ đặt các trang mà chính cá nhân mình đang sử dụng thường xuyên thôi.
+[Hocbigg](https://hocbigg.github.io/) - Mình sử dụng để vừa làm một nguồn immerse Tiếng Anh khác, vừa để học điều mới. Cá nhân mình đang học [Literature](https://hocbigg.github.io/literature/), [Drawing](https://hocbigg.github.io/drawing/), [Creative Writing](https://hocbigg.github.io/creative-writing/) và [Psychology](https://hocbigg.github.io/psychology/).
 
-## Blog
+[Khu thoát nghiện](https://khuthoatnghien.github.io/) - Thi thoảng mình hay đọc lại các phần thoát nghiện liên quan đến [Mạng xã hội](https://khuthoatnghien.github.io/mang-xa-hoi/) [Mua sắm](https://khuthoatnghien.github.io/mua-sam/), [Đồ ăn rác](https://khuthoatnghien.github.io/do-an-rac/) (Đây là cách mình định nghĩa các loại ultra-processed foods, fastfood, junkfood này kia) và [Nội dung khiêu dâm](https://khuthoatnghien.github.io/noi-dung-khieu-dam/).
+Thành thật mà nói thì mình có thể viết một phiên bản ngắn hơn sử dụng AVRT, nhưng mình thấy phần lớn các loại nghiện mà mình dính vào là *nghiện về mặt hành vi* (khác với *nghiện chất* như thuốc lá hay rượu bia) nên mình quyết định sử dụng Easyway của Allen Carr - thiên về con đại quỷ (các yếu tố liên quan đến sự tẩy não) cũng như các ảnh hưởng và niềm tin từ môi trường xung quanh).
 
-Mình thi thoảng cũng viết Blog nữa... nhưng mà đang bận học nên sẽ sắp xếp sau (Chưa viết xong đâu nhé....)
+[Khu đọc mở](https://khudocmo.github.io/) - Mình muốn có các bản sách điện tử *siêu tối ưu và tối giản* để đọc trên con máy đọc sách Kindle của mình, cũng như chỉ sưu tầm các sách đã thuộc Public Domain (Phạm vi công cộng, về cơ bản là dùng làm gì cũng được). Mình đã đọc một số tác phẩm của Vũ Trọng Phụng, Nam Cao, Thạch Lam, Nhất Linh, Khái Hưng và vân vân (Thực ra còn chưa sưu tầm được nổi 100 quyển).
 
-- [Lãng mạn hóa cái quá trình của bản thân](blog/lang-man-hoa-qua-trinh.md)
-- [Tôi yêu nghệ thuật của nhân loại](blog/yeu-nghe-thuat.md)
-- [Một xã hội nơi đàn ông đang dần bị tụt lại phía sau](blog/dan-ong-tut-lai-phia-sau.md)
-- [Tác phẩm nghệ thuật được sinh ra là để "phê phán xã hội"?](blog/tac-pham-nghe-thuat-de-phe-phan-xa-hoi.md)
-- [Cách để ở một mình - How to be alone](blog/be-alone.md)
+[Thanh đạm xanh](https://thanhdamxanh.github.io/) - Tự tạo một trang về lối sống mà mình theo đuổi (mình đang sống như vậy luôn rồi ;-;).
 
-## Hướng dẫn linh tinh
+## Các dự án *ngoo-ngoo*
 
-- [Khi học về Backend thì bạn cần học về những nội dung gì?](huong-dan-ca-nhan/backend-guide.md)
-- [Hướng dẫn chuyển đổi định dạng sách từ Aozora Bunko về Kindle](huong-dan-ca-nhan/aozora-bunko.md)
-- [Cách hiểu một câu mà không phụ thuộc vào dịch](huong-dan-ca-nhan/hieu-ma-khong-dich.md)
-- [Java Backend & React](huong-dan-ca-nhan/java-backend.md) - ChatGPT viết, mình sẽ cải thiện trong quá trình học.
-- [Xàm lờ về việc ngủ](huong-dan-ca-nhan/xam-lo-ve-viec-ngu.md)
-
-## Học để thi
-
-- [IELTS](guide/ielts.md)
-- [JLPT](guide/jlpt.md)
-
-## Đọc sách của các tác giả nào?
-Mình thích đọc kha khá nhiều sách của một số tác giả nhất định
-
-- [Nguyễn Duy Cần](tac-gia/nguyen-duy-can.md)
-- [Nguyễn Hiến Lê](tac-gia/nguyen-hien-le.md)
-- [Nguyễn Phương Mai](tac-gia/nguyen-phuong-mai.md)
-
-## Kết
-
-Không có gì lắm, có thể bạn đang thắc mắc (hoặc là không) hiện tại mình đang thế nào, bạn có thể đọc:
-
-[NOW](now/index.md)

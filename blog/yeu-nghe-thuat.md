@@ -18,7 +18,6 @@ Mình chẳng thể ngấm nổi một chữ trong Truyện Kiều và chẳng t
 
 Mình không thể hiểu nổi Romeo & Juliet và các tác phẩm của Shakespeare có gì hay, chẳng thể cười nổi khi đọc các "màn kịch hài hước" của Wilde Oscar, không cảm thấy được ý nghĩa gì sau khi đọc "Ông lão và biển cả", "Không gia đình" cũng như "Nghìn lẻ một đêm" (Tất nhiên, nó vẫn là "good read" trong lòng mình, nhưng mình chưa hiểu được cái lý do mà nó được coi là một kiệt tác của cả một nhân loại). Dẫu biết, khi nói về lựa chọn sách, Thu Giang đã từng nói rằng  "...nhưng một nhân loại thì không thể lầm", nhưng có lẽ, mình nên hướng đến "nghệ thuật kiệt tác trong lòng mình" thì hơn.
 
-
 Từ đây, mình đã bắt đầu bớt "kỳ vọng" nhiều hơn vào các tác phẩm, và mình đã học được cách đắm chìm vào nó. Khi đọc tác phẩm của Vũ Trọng Phụng thì hãy nhớ đây là văn học châm biếm, mình đã muốn nói như này cho cái bản thân khi xưa đã đọc "Số Đỏ" và "Làm Đĩ", mình đã vứt quyển sách đấy đi không thương tiếc, để rồi từ thay đổi góc nhìn, cái cảm xúc đặc biệt dành cho các tác phẩm của bác Phụng lại quay về thông qua việc đọc "Vỡ Đê" và "Giông Tố".
 
 "Phải dành cho cuốn sách đó thiện cảm", bác Thu Giang nói vậy
