@@ -1,4 +1,4 @@
-Mình và niềm yêu tới nghệ thuật của nhân loại - Chương: Sách
+# Mình và niềm yêu tới nghệ thuật của nhân loại - Chương: Sách
 
 Sẽ không hề nói quá khi tuyên bố rằng "mình sống để có thể thưởng thức những kiệt tác nghệ thuật do bàn tay và khối óc của những con người khác tạo ra". Mình có một niềm yêu mãnh liệt tới những con chữ, bức tranh, bộ phim, bản nhạc và rất nhiều những sản phẩm "nghệ thuật" khác.
 

@@ -2,26 +2,28 @@ Một bãi đất trống.
 
 ## Thư mục
 
-[`blog/`](blog/index.md) - Một người ham trải nghiệm.
+[`blog/`](blog/index.md) (Blog) - Viết bởi một người ham trải nghiệm và học hỏi.
 
-[`huong-dan/`](/huong-dan/) - Các hướng dẫn (guides) *opinionated* mà mình đã viết, đừng đọc :>
+[`huong-dan/`](/huong-dan/) (Hướng dẫn) - Các hướng dẫn *opinionated* mà mình đã viết. Trong đây cũng bao gồm cách hiểu và tự học Tiếng Anh, Tiếng Nhật cũng như Khoa học máy tính (& Lập trình) của cá nhân mình.
 
-[`tieu-luan/`](/tieu-luan/) - Các bài tiểu luận (essays) mà mình đã viết. Cũng rất chi là *opinionated*.
+[`tieu-luan/`](/tieu-luan/) (Tiểu luận) - Các bài tiểu luận (essay) mà mình đã viết. Cũng rất chi là *opinionated*.
 
-*Muốn đọc một hướng dẫn nào đó phù hợp hơn?* Hãy thử đọc trên các dự án khác của mình:
+[`media/`](/media/) - Mình viết về phim (một số bộ phim đỉnh của chóp của Việt Nam), anime (đời thường, ghibli, romcom), sách (nonfiction), tiểu thuyết (văn học trong nước (viết bằng chữ Quốc ngữ) và văn học nước ngoài), light novel/web novel (Mình chủ yếu đọc bằng Tiếng Nhật), nhạc (nhạc cổ điển, piano kiểu như Yiruma, ost của anime, nhạc rhythm game .v.v.)
 
-## Các trang hướng dẫn khác
+## Các dự án mà mình đã và đang thực hiện
 
-[Khu học mở](https://daihocmo.github.io/) - Mình sử dụng Khu học mở để học [Tiếng Anh](https://daihocmo.github.io/tieng-anh/), [Tiếng Nhật](https://daihocmo.github.io/tieng-nhat/) và [Tiếng Trung](https://daihocmo.github.io/tieng-trung/). Đồng thời, mình cũng có thể truy cập [Kho media](https://daihocmo.github.io/kho-media/) để tìm nội dung immerse.
+- [Khu học mở](https://github.com/daihocmo) - Tự học ngoại ngữ (Anh, Trung, Nhật, Hàn, Pháp, Đức, Nga, Tây Ban Nha, Bồ Đào Nha, Ý, Thái .etc.), tự học chuyên ngành (hiện tại chỉ hỗ trợ 5 chuyên ngành do số lượng tài nguyên hạn chế).
+- [Hocbigg](https://github.com/hocbigg) - Dự án tự học rất nhiều chuyên ngành (majors) bằng Tiếng Anh (thông qua tài nguyên online + miễn phí). Là một dự án được xây dựng để *bổ khuyết* cho Khu học mở.
+- [Khu thoát nghiện](https://github.com/khuthoatnghien) - Một cộng đồng hỗ trợ mọi người thoát (chứ không phải "cai") nghiện sử dụng Easyway của Allen Carr và AVRT của Jack Trimpey.
 
-[Hocbigg](https://hocbigg.github.io/) - Mình sử dụng để vừa làm một nguồn immerse Tiếng Anh khác, vừa để học điều mới. Cá nhân mình đang học [Literature](https://hocbigg.github.io/literature/), [Drawing](https://hocbigg.github.io/drawing/), [Creative Writing](https://hocbigg.github.io/creative-writing/) và [Psychology](https://hocbigg.github.io/psychology/).
+(Còn kha khá các dự án khác nhưng nó chủ yếu liên quan đến sưu tầm hoặc lập trình nên mình không thêm)
 
-[Khu thoát nghiện](https://khuthoatnghien.github.io/) - Thi thoảng mình hay đọc lại các phần thoát nghiện liên quan đến [Mạng xã hội](https://khuthoatnghien.github.io/mang-xa-hoi/) [Mua sắm](https://khuthoatnghien.github.io/mua-sam/), [Đồ ăn rác](https://khuthoatnghien.github.io/do-an-rac/) (Đây là cách mình định nghĩa các loại ultra-processed foods, fastfood, junkfood này kia) và [Nội dung khiêu dâm](https://khuthoatnghien.github.io/noi-dung-khieu-dam/).
-Thành thật mà nói thì mình có thể viết một phiên bản ngắn hơn sử dụng AVRT, nhưng mình thấy phần lớn các loại nghiện mà mình dính vào là *nghiện về mặt hành vi* (khác với *nghiện chất* như thuốc lá hay rượu bia) nên mình quyết định sử dụng Easyway của Allen Carr - thiên về con đại quỷ (các yếu tố liên quan đến sự tẩy não) cũng như các ảnh hưởng và niềm tin từ môi trường xung quanh).
+## Dự án lập trình
 
-[Khu đọc mở](https://khudocmo.github.io/) - Mình muốn có các bản sách điện tử *siêu tối ưu và tối giản* để đọc trên con máy đọc sách Kindle của mình, cũng như chỉ sưu tầm các sách đã thuộc Public Domain (Phạm vi công cộng, về cơ bản là dùng làm gì cũng được). Mình đã đọc một số tác phẩm của Vũ Trọng Phụng, Nam Cao, Thạch Lam, Nhất Linh, Khái Hưng và vân vân (Thực ra còn chưa sưu tầm được nổi 100 quyển).
+Khi nào có một dự án xịn xịn (Mình lưu trữ trên Codeberg) thì sẽ đưa lên Github và khoe sau :>.
 
-[Thanh đạm xanh](https://thanhdamxanh.github.io/) - Tự tạo một trang về lối sống mà mình theo đuổi (mình đang sống như vậy luôn rồi ;-;).
+## Liên lạc
 
-## Các dự án *ngoo-ngoo*
-
+Email: <mailto:duykhanh471@protonmail.com>  
+Github: <https://github.com/duyk471> (Xem đầy đủ danh sách dự án của mình, cũng như tham gia đóng góp và cùng xây dựng này kia)  
+Substack: <https://duykhanh471.substack.com/> (Không hoạt động thường xuyên)  
