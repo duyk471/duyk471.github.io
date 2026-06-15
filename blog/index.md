@@ -7,3 +7,4 @@ Trang này được viết ra để viết về những thứ chẳng có giá t
 - [Yêu nghệ thuật](yeu-nghe-thuat.md)
 - [Tôi ở một mình](be-alone.md)
 - [Tôi tận hưởng quá trình](lang-man-hoa-qua-trinh.md)
+- 05/06/2026: [Những người mà mình ngưỡng mộ](nhung-nguoi-minh-nguong-mo.md)
